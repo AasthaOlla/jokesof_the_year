@@ -1,0 +1,19 @@
+body {
+   width: 200px;
+   height: 100px;
+   background-color: floralwhite;
+   display: flexbox;
+   justify-content: center;
+}
+
+p{
+    display: inline-block;
+    margin: auto 10px;
+    font-size: 15px;
+    color: crimson;
+    border-radius: 5px;
+    border: 2px red;
+    padding: 5px;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
